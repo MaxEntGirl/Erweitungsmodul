@@ -1,0 +1,8 @@
+﻿1. IBM Model 1 modeliert ein n:m Alignmentstruktur.
+    Für 1:n Alignierungen is nur für die Richtung f in e möglich.
+    Die Sprachen, die sich die Wortstellung nicht unterscheidet, können nicht aligniert werden.
+
+2. Für t(e|f) soll man ein Dictionary mit dem Tupel des Wörterpaars als Key und die Wahlscheinlichkeiten des Paars als Value benutzen; 
+    für count(e|f) ein Dictionary mit dem Tupel des Wörterpaars als Key und die Zahl des Paars als Value.
+
+3. Viterbi-Alignment Pseudocode:

@@ -1,0 +1,72 @@
+1.
+Jeder hat das Recht auf Bildung.
+Google (korrekt)：Everyone has the right to education.
+
+2.
+Großmutter wird sich darüber freuen!
+Google (korrekt)：Grandmother will be happy about that!
+
+3.
+Wo gehst du hin?
+Google (korrekt)：Where are you going?
+
+4.
+Ich wohne in einem Dorf bei München.
+Google (korrekt)：I live in a village near Munich.
+
+5.
+Ich bekam einen Hund zum Geburtstag geschenkt.
+Google (korrekt)：I got a dog for my birthday.
+
+6.
+Ich esse gern mexikanisch.
+Google (falsch)：I like to eat mexican.
+Korrektur：I like Mexican food.
+Fehlerbeschreibung:
+    Falsche Wortstellung.
+    Quellwörter: esse gern mexikanisch
+    Zielwörter: like to eat mexican
+    "mexican" ist kein Adverb sondern ein Adjektiv. Danach sollte es noch noch ein Nomen wie "food" geben. 
+
+7.
+Ich lerne gerade für meine Prüfung. 
+Google (falsch)：I'm just learning for my exam.
+Korrektur：I’m studying for my exam.
+Fehlerbeschreibung:
+    Semantischer Fehler.
+    Quellwort: lerne
+    Zielwort: learn
+    "learn" heißt, wenn man eine Fähigkeit usw. lernen. "study" ist, wenn man ein Fach studiert.
+ 
+8.
+Er fuhr vorsichtig mit seinem Fahrrad.
+Google (falsch)：He drove carefully with his bike.
+Korrektur：He rode his bike carefully.
+Fehlerbeschreibung:
+    1. Fehler: Falsches Verb. Semantischer Fehler.
+               Quellwort: fuhr
+               Zielwort: drove
+               Statt "drive" soll "ride" verwendet werden. Wenn es sich um "Kraftfahrzeug" etc. geht, können wir erst "drive" benutzen.
+    2. Fehler: Syntaxfehler.
+               Die englische Satzbauweise erfolgt oft nach der folgender Reihenfolge: Substantiv - Verb - Objekt.
+               Das Adverb "carefully" sollte nach dem Objekt "bike" stehen.
+
+9.
+Aber für sie ist eine schlimme Überraschung im Anzug.
+Google (falsch)：But for her is a bad surprise in the suit.
+Korrektur：But she has a bad surprise coming.
+Fehlerbeschreibung:
+    Falsche Wortbedeutung.
+    Quellwörter: im Anzug
+    Zielwörter: in the suit.
+    "Im Anzug" ist hier eine feste Wortverbindung/Redewendung und bedeutet "sich nähern, herankommen".
+
+10.
+Als sie zu Hause bei Jack ankommt ist es schon halb sechs.
+Google (falsch)：When she arrives at home at Jack it is already half past five.
+Korrektur：It’s already half past five when she arrives at Jack’s house.
+Fehlerbeschreibung:
+    Falsche Wortstellung.
+    Quellwörter: zu Hause bei Jack
+    Zielwörter: at home at Jack
+    Hier darf man nicht immer direkt 1:1 übersetzen. "of" entspricht dem deutschen Genitiv.
